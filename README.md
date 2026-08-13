@@ -58,7 +58,7 @@ Currently serving as a **Member of the Security Council at Nagarro**, driving en
 
 ## 🛠️ Open-Source Security Tooling
 
-### 🛡️ [ReconGo](https://github.com/Lost-Illusion69/recongo)
+### 🛡️ [ReconGo](https://github.com/Lost-illusion69/ReconGO-by-Lost_Illusion.git)
 > **High-Performance Multi-Protocol Asset Discovery & DNS Resolver in Go.**
 
 * **Pipeline Architecture:** Built using Go 1.22+ primitives (Goroutines, Channels, `sync.WaitGroup`) with dedicated state-owning goroutines to guarantee non-blocking, thread-safe memory operations (`go test -race` compliant).
